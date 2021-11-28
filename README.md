@@ -1,5 +1,5 @@
 [![calculateTip  with CI | © 2021 duy đan]
-# welcome to Interior Design repository
+# welcome to calculateTip  repository
 
 ### you will find in this repo the follongwing stuff:
 * Use html, css and js to code calculateTip web.
